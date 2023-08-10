@@ -1,2 +1,37 @@
 **/.DS_Store
 
+# Python Flask
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+
+# React Frontend
+node_modules/
+build/
+dist/
+*.log
+
+# Environment Variables
+.env
+*.env.local
+
+# Editor and IDE
+.vscode/
+.idea/
+
+# Compiled Python
+*.pyc
+*.pyo
+
+# Compiled JavaScript
+*.js
+*.js.map
+
+# Lock files
+yarn.lock
+
+
+
+
+
